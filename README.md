@@ -8,10 +8,17 @@ This could definitley be done more graceful, however I only had to do it once, a
 How to use
 
 Step 1: open I cloud password manager on your PC
+
 Step 2: locate the copy icon that allows you to copy username & password
+
 Step 3: run coordinate-finder, and click the button.
+
 Step 4: Take those coordinates, and input them into the Icloud password retrieval.py file where specified
+
 *** This next step will take control of your mouse, so make sure you do not need to do anything while this is running ***
+
 Step 5: Run the I cloud password retrieval file.py file, and wait. This could take a while, depending on how many passwords you have.
+
 Step 6: Run the converter.py file to convert the output from this, to something that BitWarden is able to import.
+
 Step 7: Import your freshly retrieved passwords into your BitWarden instance 😎
